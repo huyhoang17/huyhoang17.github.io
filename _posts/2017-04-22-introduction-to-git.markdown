@@ -2,7 +2,8 @@
 layout: post
 title:  "Introduction to Git"
 date:   2017-04-22 00:11:34 +0700
-categories: jekyll update
+categories: git
+tags: git
 ---
 
 ## Hướng dẫn cơ bản về git cho người mới bắt đầu

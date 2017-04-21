@@ -2,7 +2,8 @@
 layout: post
 title:  "Introduction to Git in Windows"
 date:   2017-04-22 00:11:35 +0700
-categories: jekyll update
+categories: git
+tags: git
 ---
 
 ## Hướng dẫn cơ bản về git trên Windows
