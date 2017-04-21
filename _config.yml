@@ -26,8 +26,8 @@ github_username:  huyhoang17
 
 # Build settings
 markdown: kramdown
-# theme: minima
-theme: jekyll-theme-cayman
+theme: minima
+# theme: jekyll-theme-cayman
 gems:
   - jekyll-feed
 exclude:
