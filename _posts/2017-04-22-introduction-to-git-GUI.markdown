@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Introduction to Git in Windows"
-date:   2017-04-22 00:11:34 +0700
+date:   2017-04-22 00:11:35 +0700
 categories: jekyll update
 ---
 
