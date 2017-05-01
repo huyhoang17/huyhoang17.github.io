@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Introduction to Git in Windows"
+title:  "Hướng dẫn cơ bản về git trên Windows"
 date:   2017-04-22 00:11:35 +0700
 categories: git
 tags: git

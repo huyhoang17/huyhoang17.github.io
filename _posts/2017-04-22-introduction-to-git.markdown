@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Introduction to Git"
+title:  "Hướng dẫn cơ bản về git cho người mới bắt đầu"
 date:   2017-04-22 00:11:34 +0700
 categories: git
 tags: git
